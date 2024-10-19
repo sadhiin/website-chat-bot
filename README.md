@@ -1,4 +1,4 @@
-# Cebsite-Chat-Bot
+# Website-Chat-Bot
 
 ### Design
 ![architecture-image](./figs/web-chat.png)
