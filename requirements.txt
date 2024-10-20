@@ -1,0 +1,14 @@
+numpy
+pandas
+transformers
+einops 
+accelerate
+langchain 
+langchain_huggingface 
+sentence_transformers
+faiss-cpu 
+tokenizer
+sentencepiece
+unstructured
+bitsandbytes
+pypdf
